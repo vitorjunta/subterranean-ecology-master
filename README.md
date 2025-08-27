@@ -1,4 +1,4 @@
-# 🦗 Subterranean Invertebrate Ecology
+# 🦗 Master in Subterranean Ecology
 
 ![R](https://img.shields.io/badge/Language-R-blue?style=flat)
 ![QGIS](https://img.shields.io/badge/Tools-QGIS-green?style=flat)
