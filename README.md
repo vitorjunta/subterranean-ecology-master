@@ -10,16 +10,18 @@ The work aims to understand how **habitat traits** – including physical, troph
 ---
 
 ## 🔬 Research Overview
+The reaearch was divided in two different chapters. the first one used 24 caves from the municipality of Santana, Bahia state, Brazil. The second was focused in the largest cave in the region, and the fifth largest cave in Brazi,the Padre Cave.
 
 ### 1️⃣ Regional-scale study
 - Evaluated **24 caves in the Santana region, Bahia, Brazil**.  
 - Assessed how **habitat attributes** affect invertebrate communities.  
 - Identified key factors shaping **community composition and species richness**.
 
-### 2️⃣ Local-scale study (Gruta do Padre)
+### 2️⃣ Local-scale study (Padre Cave)
 - Focused on the **fifth largest cave in Brazil**.  
 - The cave was identified as a **new Hotspot for Subterranean Biodiversity** with **25 strictly subterranean species**.  
 - Identified multiple areas inside the same cave and how this could shape communities.  
+- Assessed how **habitat attributes** affect invertebrate communities. 
 
 ---
 
@@ -27,13 +29,13 @@ The work aims to understand how **habitat traits** – including physical, troph
 
 The repository is organized by chapters, each with its own set of scripts, data, results, and documents:
 
-**📁 Chapter 1 - Regional Scale**
+**📁 Chapter 1 - Santana and Region**
 - **📂 scripts** – all R scripts used for analyses  
 - **📂 data** – raw and processed datasets (confidentiality permitting)  
 - **📂 results** – figures, tables, statistical outputs  
 - **📂 docs** – summaries, project notes, and final documents  
 
-**📁 Chapter 2 - Local Scale**
+**📁 Chapter 2 - Padre Cave**
 - **📂 scripts** – all R scripts used for analyses  
 - **📂 data** – raw and processed datasets (confidentiality permitting)  
 - **📂 results** – figures, tables, statistical outputs  
